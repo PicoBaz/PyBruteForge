@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+brute_force_results.csv
+.idea
